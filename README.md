@@ -1,6 +1,6 @@
-# interest_calculator
+# interest calculator
 
-A new Flutter application.
+A new Flutter application for interest calculation.
 
 ## Getting Started
 
